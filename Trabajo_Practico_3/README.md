@@ -4,7 +4,6 @@
 - **Nombre:** Alfredo de Inocenti
 - **Materia:** Programación II
 - **Carrera:** Tecnicatura Universitaria en Programación
-- **Institución:** UTN - FRCU
 
 ---
 
